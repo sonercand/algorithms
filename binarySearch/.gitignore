@@ -1,5 +1,5 @@
 __pycache__/
-__pycache__/*
+__pycache__/*.pyc
 *.py[cod]
 *$py.class
 
@@ -61,3 +61,5 @@ target/
 #Ipython Notebook
 .ipynb_checkpoints
 .ipynb_checkpoints/*.ipynb
+binarySearch/.ipynb_checkpoints/*.ipynb
+
