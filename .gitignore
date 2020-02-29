@@ -12,6 +12,8 @@ build/
 develop-eggs/
 dist/
 downloads/
+algorithms/
+santaOptimization/
 eggs/
 .eggs/
 lib/
